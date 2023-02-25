@@ -1,3 +1,4 @@
+example.property:"This is claims service example property"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
